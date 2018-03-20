@@ -13,7 +13,7 @@ In a typical analysis, data will be received from an Illumina sequencer, or some
 
 Some things to consider when running this program:
 
-+ ** process_radtags** can handle both single-end or paired-end Illumina sequencing.
++   ** process_radtags** can handle both single-end or paired-end Illumina sequencing.
 
 * The raw data can be compressed, or gzipped (files end with a "`.gz`" suffix).
 
